@@ -3,22 +3,22 @@
 
 This project focuses on detecting pneumonia from chest X-ray images using a Convolutional Neural Network (CNN).
 
-## 📊 Dataset
+## Dataset
 - Chest X-ray images (NORMAL vs PNEUMONIA)
 
-## ⚙️ Methods
+## Methods
 - Image preprocessing (resize, normalization)
 - CNN model training (TensorFlow)
 - Model evaluation (accuracy, confusion matrix)
 
-## 🎯 Results
+## Results
 - Accuracy: 85.7%
 
-## 🚀 Technologies
+## Technologies
 - Python
 - TensorFlow
 - NumPy
 - Matplotlib
 
-## 📌 Objective
+## Objective
 Understand and implement a full deep learning pipeline for image classification.
